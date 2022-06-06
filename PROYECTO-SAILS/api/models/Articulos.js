@@ -9,7 +9,7 @@ module.exports = {
 
   attributes: {
     nombre: {type: 'string', required: true},
-    descripcion: {type: 'number', allowNull: false},
+    descripcion: {type: 'string', allowNull: false},
     cantidad: {type: 'number', allowNull: false},
   },
 

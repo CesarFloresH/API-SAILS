@@ -1,7 +1,7 @@
 {
   "name": "proyecto-sails",
   "private": true,
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
@@ -13,6 +13,7 @@
     "sails-hook-grunt": "^5.0.0",
     "sails-hook-orm": "^4.0.0",
     "sails-hook-sockets": "^2.0.0",
+    "sails-mssql": "^2.1.9",
     "sails-mysql": "2.0.0"
   },
   "devDependencies": {

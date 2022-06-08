@@ -48,9 +48,8 @@ module.exports.datastores = {
     *    (See https://sailsjs.com/config/datastores for help.)                 *
     *                                                                          *
     ***************************************************************************/
-    adapter: 'sails-mysql',
-    url: 'mysql://sails:Converse19@localhost:3306/api-sails',
-
+    adapter: 'sails-mssql',
+    url: 'mssql://sails:Converse19@localhost:1433/api-sails',
   },
 
 
